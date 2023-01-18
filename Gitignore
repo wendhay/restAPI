@@ -1,0 +1,4 @@
+.env
+node_modules/
+package-lack.json
+package.json
